@@ -1,0 +1,36 @@
+h1 {
+    margin-bottom: 30px;
+    text-align: center;
+    color: red;
+}
+
+.btn-cal {
+    color: #fff;
+    border-radius: 50px;
+    padding: 8px 40px;
+    background-color: #4b6fe2;
+}
+
+.bg {
+    padding: 5% 10%;
+    box-shadow: 0 0 20px 0 rgba(34, 47, 236, 0.3);
+    border-radius: 15px;
+}
+
+.alert-success {
+    display: block;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.form-row {
+    margin: 0;
+}
+
+.card .btn:focus {
+    box-shadow: 0 0;
+}
+
+.form-control {
+    border-radius: 5px;
+}
